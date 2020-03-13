@@ -1,4 +1,4 @@
-![Image of ct-exposer](https://chris408.com/ct-exposer.png)
+![Image of ct-exposer](https://www.pecollege.edu.za/ct-exposer.png)
 
 # Discover sub-domains by searching through Certificate Transparency logs
 
